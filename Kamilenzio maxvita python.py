@@ -1,5 +1,4 @@
 from pyautogui import *
-from playsound import playsound
 import pyautogui
 import time
 import keyboard
